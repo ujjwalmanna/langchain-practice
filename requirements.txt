@@ -1,0 +1,1 @@
+aia-auth-client==0.0.10
